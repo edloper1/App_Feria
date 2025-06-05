@@ -1,6 +1,6 @@
 package com.edwin_lopez.appferia
 
-
+import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
